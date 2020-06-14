@@ -1,0 +1,4 @@
+20:34:01.909 [main] INFO  multipletests.dataprovider - Navigated facebook
+20:34:01.919 [main] DEBUG multipletests.dataprovider - opening website
+20:34:02.149 [main] INFO  multipletests.dataprovider - First Login
+20:34:06.993 [main] DEBUG multipletests.dataprovider - Finishing test

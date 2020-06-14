@@ -1,0 +1,7 @@
+20:32:50.980 [main] DEBUG multipletests.dataprovider - Finishing test
+20:33:20.062 [main] INFO  multipletests.dataprovider - Browser has started
+20:33:23.086 [main] INFO  multipletests.dataprovider - Navigated facebook
+20:33:23.086 [main] DEBUG multipletests.dataprovider - opening website
+20:33:23.273 [main] INFO  multipletests.dataprovider - First Login
+20:33:27.805 [main] DEBUG multipletests.dataprovider - Finishing test
+20:33:57.628 [main] INFO  multipletests.dataprovider - Browser has started
